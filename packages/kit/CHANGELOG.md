@@ -1,5 +1,14 @@
 # @sveltejs/kit
 
+## 2.63.1
+### Patch Changes
+
+
+- fix: use SSE for `query.live` ([#15957](https://github.com/sveltejs/kit/pull/15957))
+
+
+- fix: avoid importing Vite while validating explicit environment variables ([#15953](https://github.com/sveltejs/kit/pull/15953))
+
 ## 2.63.0
 ### Minor Changes
 
